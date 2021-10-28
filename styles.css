@@ -1,1 +1,45 @@
-/* Write your CSS here! */
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: larger;
+  }
+
+
+  body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+    display: block;
+    
+  }
+
+  .ArushPrisha {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  #mainHeading {
+    color: rgb(255, 0, 191);
+    text-align: center;
+    font-family: "Lucida Console";
+  }
+
+  footer{
+      font-size: xx-large;
+      color: rgb(255, 0, 191);
+      margin-top: 60px;
+      margin-bottom: 60px;
+  }
+
+  #anchorTag{
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-right: 692px;
+    margin-left: 692px;
+  }
