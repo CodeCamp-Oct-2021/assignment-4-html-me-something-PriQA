@@ -5,6 +5,10 @@ p {
     margin-left: 10px;
     text-align: center;
     font-size: larger;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-left:5%;
   }
 
 
@@ -14,6 +18,11 @@ p {
     margin-right: 8px;
     margin-left: 8px;
     display: block;
+
+   
+
+    border-style:groove;
+    background-color: rgb(191, 211, 156);
     
   }
 
@@ -24,10 +33,17 @@ p {
 
   }
 
+
+  .funParagraph {
+
+    color: green;
+  }
+
   #mainHeading {
-    color: rgb(255, 0, 191);
+    color: red;
     text-align: center;
     font-family: "Lucida Console";
+    background-color: rgb(63, 65, 62);
   }
 
   footer{
@@ -35,11 +51,8 @@ p {
       color: rgb(255, 0, 191);
       margin-top: 60px;
       margin-bottom: 60px;
+      text-align: center;
+      background-color: honeydew;
   }
 
-  #anchorTag{
-    margin-top: 3px;
-    margin-bottom: 10px;
-    margin-right: 692px;
-    margin-left: 692px;
-  }
+  
